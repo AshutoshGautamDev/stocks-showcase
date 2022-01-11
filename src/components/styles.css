@@ -1,0 +1,15 @@
+.header {
+  height: 70px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.heading {
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.button {
+  width: 150px;
+  height: 50px;
+}

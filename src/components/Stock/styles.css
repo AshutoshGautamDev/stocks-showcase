@@ -1,0 +1,36 @@
+.stock-grid {
+  position: relative;
+  width: 90%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  padding: 8px;
+}
+
+.stock-grid:hover {
+  background-color: rgb(207, 207, 207);
+}
+
+.upper-text {
+  color: rgb(91, 186, 241);
+  font-size: 20px;
+  font-weight: 700;
+  padding-bottom: 15px;
+}
+
+.tag {
+  background-color: rgb(207, 207, 207);
+  padding: 5px;
+}
+
+.stock-grid-cover {
+  position: absolute;
+  bottom: 5px;
+  right: 5px;
+}
+
+.box {
+  border: 1px solid rgb(216, 216, 216);
+  width: 30px;
+  height: 30px;
+}
